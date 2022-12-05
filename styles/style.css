@@ -7,7 +7,7 @@ light blue: #1c5380
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 100px 200px 50px 100px;
-  background-image: url(/images/bgtile.png);
+  background-image: url(./images/bgtile.png);
   background-repeat: repeat-x;
   
 
@@ -24,7 +24,7 @@ body {
 
 .loginButton {
 
-background-image: url(/hich-t/lab-css-instagram-clone/images/bgtile.png);
+background-image: url(./images/bgtile.png);
 background-repeat: repeat-x;
 color: white;
 font-weight: bold;
