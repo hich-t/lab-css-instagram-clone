@@ -24,7 +24,7 @@ body {
 
 .loginButton {
 
-background-image: url(../images/bgtile.png);
+background-image: url(../images/frame.png);
 background-repeat: repeat-x;
 color: white;
 font-weight: bold;
@@ -118,4 +118,10 @@ footer {
   font-weight: bold;
   color: #1c5380;
   text-transform: uppercase;
+}
+
+.copyrightText {
+
+  color: grey
+
 }
