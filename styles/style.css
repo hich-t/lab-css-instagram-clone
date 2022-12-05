@@ -18,13 +18,14 @@ body {
   width: 280px;
   float: left;
   margin-right: 150px;
+  margin-top: 60px;
 }
 
 
 
 .loginButton {
 
-background-image: url(../images/frame.png);
+background-image: url(../images/bgtile.png);
 background-repeat: repeat-x;
 color: white;
 font-weight: bold;
@@ -122,6 +123,6 @@ footer {
 
 .copyrightText {
 
-  color: grey
+  color: rgb(190, 178, 178)
 
 }
