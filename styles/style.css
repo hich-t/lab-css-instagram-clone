@@ -67,7 +67,7 @@ margin-right: 60px;
 }
 
 article {
-  background-image: url(/hich-t/lab-css-instagram-clone/images/frame.png);
+  background-image: url(../images/frame.png);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
